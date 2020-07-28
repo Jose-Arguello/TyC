@@ -40,7 +40,7 @@
 <p align="justify"> -	Para el caso de dirimir conflictos en materia de productos y mercancías, como de obligaciones y derechos del consumidor y la interpretación o cumplimiento del presente contrato, acepta someterse a los procedimientos y normativas establecidas en la Ley Federal de Protección al Consumidor, y ante la Procuraduría Federal del Consumidor (PROFECO).</p>
 <p align="justify"> -	Y para litigios relativos al presente acepta someterse a las leyes y tribunales competentes en la ciudad de Chihuahua, Chihuahua, México, renunciando al fuero que pudiera corresponderle en virtud de cualquier otro domicilio presente o futuro.</p>
 
-<p align="justify">El CLIENTE acepta estos Términos y Condiciones, enunciativa mas no limitativamente, ya sea pulsando (haciendo click en) el botón en la página del registro titulado "Acepto" o accediendo, usando, visitando, o comprando en el PORTAL.</p>
+<p align="justify">El CLIENTE acepta estos Términos y Condiciones, enunciativa mas no limitativamente, ya sea dando clic en el botón "Acepto" en la página de registro de usuarios o accediendo, usando o comprando en el PORTAL.</p>
 
 
 <h3><a name="DEFINICIONES">DEFINICIONES</a></h3>
