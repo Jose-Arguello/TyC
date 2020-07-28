@@ -54,6 +54,6 @@
 
 <h3><a name="PROCES">PROCESO DE COMPRA</a></h3>
 <p align="justify">Utilizar el PORTAL y los Servicios de manera conforme con las leyes o reglamentos aplicables (estatales, federales, locales o internacionales), con lo dispuesto en este contrato, la moral y las buenas costumbres generalmente aceptadas como el orden público</p>
-<button onclick="window.print()"> Print this page </button>
+<button onclick="window.print()"> Imprimir Términos y Condiciones </button>
 </body>
 </html>
