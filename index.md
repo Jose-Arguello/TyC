@@ -18,6 +18,8 @@
 <h3><a href="#DEFINICIONES">DEFINICIONES</a></h3>
 <h3><a href="#REG">DEL REGISTRO Y CUENTAS DE USUARIOS</a></h3>
 <h3><a href="#PROCES">PROCESO DE COMPRA</a></h3>
+<h3><a href="#REQ">REQUISITOS DE COMPRA</a></h3>
+<h3><a href="#GAR">GARANTÍAS</a></h3>
 <h3><a href="#ENV">ENVÍOS Y ENTREGAS</a></h3>
 <h3><a href="#FAC">FACTURACIÓN</a></h3>
 <h3><a href="#USE">USO DEL SITIO</a></h3>
