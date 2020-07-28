@@ -57,6 +57,6 @@
 
 
 
-onclick="window.print();return false;" />
+<element onclick="window.print();return false;"/>
 </body>
 </html>
