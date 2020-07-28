@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html>
 <body>
 
 <h1>Términos y Condiciones</h1>
-<p align="justify">Estos términos y condiciones establecen las políticas de uso y compra de productos en nuestro sitio de internet <a href="www.olivas.com.mx">www.olivas.com.mx</a>. SI USTED NO ESTÁ DE ACUERDO CON LOS TÉRMINOS Y CONDICIONES DE MUEBLERÍA OLIVAS LE SOLICITAMOS QUE NO REGISTRE USUARIOS NI ADQUIERA NUESTROS PRODUCTOS A TRAVÉS DE NUESTRO SITIO WEB.</p>
-<p align="justify">Para tu mayor conveniencia aquí te dejamos los términos que más te interesa conocer:</p>
+<p align="justify"> Estos términos y condiciones establecen las políticas de uso de nuestra plataforma y las pautas para la compra de nuestros productos a través del sitio <a href="www.olivas.com.mx">www.olivas.com.mx</a>. Para tu mayor conveniencia aquí te dejamos un resumen de los términos más importantes:</p>
+
 <p align="justify">1. Estos términos y condiciones son un CONTRATO entre el usuario y <b>IMPORTADORA Y COMERCIALIZADORA DE MUEBLES DE CAMARGO, S.A. DE C.V.</b>" o sus empresas filiares o subsidiarias (en adelante “MUEBLERÍA OLIVAS”), por lo que recomendamos que se lean completos.</p>
 <p align="justify">2. Al dar clic en “aceptar”, o bien, al utilizar nuestros programas estás sujetándote a las condiciones aquí establecidas.</p>
 <p align="justify">3. La propiedad del software ELEVENTA es de BAMBU CODE, S.A. DE C.V. y lo que se adquiere es una licencia de usuario final, esto es, una licencia para descargar y usar el programa en una computadora (si adquieres la licencia MONOCAJA) o varias computadoras (si adquieres la licencia MULTICAJA).</p>
