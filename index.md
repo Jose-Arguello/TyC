@@ -57,6 +57,6 @@
 
 
 
-<element onclick="window.print();return false;"/>
+<element onclick="myScript">
 </body>
 </html>
