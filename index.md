@@ -38,9 +38,9 @@
 <p align="justify"><b>JURISDICCIÓN Y RESOLUCIÓN DE CONTROVERSIAS</b>. El CLIENTE acepta que para todo lo que no esté expresamente previsto en los presentes, se apliquen las disposiciones generales de la Ley Federal del Derecho de Autor, Ley Federal de Protección a la Propiedad Industrial, Ley Federal de Protección de Datos Personales en Posesión de Particulares, la Ley Federal de Protección al Consumidor, y demás aplicables a la naturaleza de cada acto/hecho. De igual manera se establece que para dirimir controversias se estará a lo siguiente:</p>
 <p align="justify"> -	Para temas de derechos de autor aceptan someterse al arbitraje de conformidad a los artículos 219, 220 y relativos de la Ley Federal del Derecho de Autor.</p>
 <p align="justify"> -	Para el caso de dirimir conflictos en materia de productos y mercancías, como de obligaciones y derechos del consumidor y la interpretación o cumplimiento del presente contrato, acepta someterse a los procedimientos y normativas establecidas en la Ley Federal de Protección al Consumidor, y ante la Procuraduría Federal del Consumidor (PROFECO).</p>
-<p align="justify"> -	Y para litigios relativos al presente acepta someterse a las leyes y tribunales competentes en la ciudad de Chihuahua, Chihuahua, México, renunciando al fuero que pudiera corresponderle en virtud de cualquier otro domicilio presente o futuro.</p>
+<p align="justify"> -	Para litigios relativos al presente acepta someterse a las leyes y tribunales competentes en la ciudad de Chihuahua, Chihuahua, México, renunciando al fuero que pudiera corresponderle en virtud de cualquier otro domicilio presente o futuro.</p>
 
-<p align="justify">El CLIENTE acepta estos Términos y Condiciones, enunciativa mas no limitativamente, ya sea dando clic en el botón "Acepto" en la página de registro de usuarios o accediendo, usando o comprando en el PORTAL.</p>
+<p align="justify">El CLIENTE acepta estos Términos y Condiciones dando clic en el botón "Acepto" en la página de registro de usuarios o accediendo, usando o comprando en el PORTAL.</p>
 
 
 <h3><a name="DEFINICIONES">DEFINICIONES</a></h3>
