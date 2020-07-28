@@ -1,6 +1,6 @@
 <html>
 <body>
-<div id="printableArea">
+
 <h1>Términos y Condiciones</h1>
 <p align="justify"> Estos términos y condiciones establecen las políticas de uso de nuestra plataforma y las pautas para la compra de nuestros productos a través del sitio <a href="www.olivas.com.mx">www.olivas.com.mx</a>. Para tu mayor conveniencia aquí te dejamos un resumen de los términos más importantes:</p>
 
@@ -57,10 +57,6 @@
 
 
 
-
-<h3>Print me</h3> </div>
-
-<input type="button" onclick="printDiv('printableArea')" value="print a div!" />
-
+onclick="window.print();return false;" />
 </body>
 </html>
