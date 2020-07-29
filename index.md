@@ -45,20 +45,91 @@
 <h3><a name="DEFINICIONES">DEFINICIONES</a></h3>
 <p><b>"PORTAL"</b>: Se refiere al sitio de internet <a href="www.olivas.com.mx">www.olivas.com.mx</a>, o bien, a la aplicación móvil asociada a MUEBLERÍAS OLIVAS, y cuya función principal es la de poner a disposición del CLIENTE diversos productos para su compra electrónica.</p>
 
-<p><b>"USUARIO"</b>: Persona física mayor de 18 años o moral que accede o usa nuestro portal, crea una cuenta o adquiere como destinatario final los productos proporcionados por la empresa. Asimismo se entenderá como USUARIO a la persona que, de manera directa o indirecta, realice la compra de productos y/o servicios a través del PORTAL y que suscribe y se compromete al cumplimiento de los presentes Términos y Condiciones.</p>
+<p align="justify"><b>"USUARIO"</b>: Persona física mayor de 18 años o moral que accede o usa nuestro portal, crea una cuenta o adquiere como destinatario final los productos proporcionados por la empresa. Asimismo se entenderá como USUARIO a la persona que, de manera directa o indirecta, realice la compra de productos y/o servicios a través del PORTAL y que suscribe y se compromete al cumplimiento de los presentes Términos y Condiciones.</p>
 
-<p><b>“MUEBLERIA OLIVAS”</b>: Se refiere a la empresa IMPORTADORA Y COMERCIALIZADORA DE MUEBLES DE CAMARGO, S.A. DE C.V. o cualquiera de sus filiales o subsidiarias, con domicilio en Ave. Fedor Dostoyevski número 105-5, Colonia Quintas Quijote, Código Postal 31196, en la ciudad de Chihuahua, Chihuahua, México; Registro Federal de Contribuyentes ICM090206H37; número de teléfono 6144681511; correo electrónico: ventas@muebleriaolivas.com.mx y sitio web www.olivas.com.mx.</p>
+<p align="justify"><b>“MUEBLERIA OLIVAS”</b>: Se refiere a la empresa IMPORTADORA Y COMERCIALIZADORA DE MUEBLES DE CAMARGO, S.A. DE C.V. o cualquiera de sus filiales o subsidiarias, con domicilio en Ave. Fedor Dostoyevski número 105-5, Colonia Quintas Quijote, Código Postal 31196, en la ciudad de Chihuahua, Chihuahua, México; Registro Federal de Contribuyentes ICM090206H37; número de teléfono 6144681511; correo electrónico: <a href="mailto:ventas@muebleriaolivas.com.mx">ventas@muebleriaolivas.com.mx</a> y sitio web <a href="www.olivas.com.mx">www.olivas.com.mx</a></p>
 
-<p><b>"CONDICIONES PARTICULARES DE COMPRA"</b>: Se refiere a la definición de condiciones específicas sobre el producto a adquirir que se establecen en la descripción del producto o previo a la finalización de la compra, esto incluye datos específicos del producto como modelo, tamaño, peso, color, texturas o composición, forma, entre otros datos asociados al producto así como costos totales del producto, costos y condiciones de envío, fecha de entrega. </p>
+<p align="justify"><b>"CONDICIONES PARTICULARES DE COMPRA"</b>: Se refiere a la definición de condiciones específicas sobre el producto a adquirir que se establecen en la descripción del producto o previo a la finalización de la compra, esto incluye datos específicos del producto como modelo, tamaño, peso, color, texturas o composición, forma, entre otros datos asociados al producto así como costos totales del producto, costos y condiciones de envío, fecha de entrega. </p>
 
-<h3><a name="DECLARACIONES">DECLARACIONES</a></h3>
-<p align="justify">LA EMPRESA declara ser una persona moral constituida con total apego a la legislación mexicana, con los datos de identificación referidos en las definiciones, y que cuenta con la capacidad legal para acordar sus transacciones de conformidad con el presente.</p>
+<h3><a name="REG">DEL REGISTRO Y CUENTAS DE USUARIOS</a></h3>
+<p align="justify"> EL CLIENTE acepta que al acceder y/o usar el PORTAL acepta tácitamente los presentes Términos y Condiciones. No obstante, para efectos de la compra de productos, el USUARIO deberá crear una cuenta en el sitio web <a href="www.olivas.com.mx">www.olivas.com.mx</a> y aceptar expresamente estos Términos y Condiciones a través de los medios de aceptación dispuestos en nuestro portal.</p>
 
-<h3><a name="DELOSU">DE LOS USUARIOS, REGISTRO Y CUENTAS</a></h3>
-<p align="justify">En el momento de efectuar una transacción comercial en el PORTAL, se llevará a cabo la siguiente metodología de validación:</p>
+<p>Los usuarios podrán crear cuentas que permitan la compra de productos, la selección del domicilio de envío, el registro de transacciones, el registro de productos vistos o puestos en el carrito de compra y el registro de los datos generales del usuario.</p>
+
+<p>Para la creación de una cuenta el usuario deberá ingresar al PORTAL en la sección <a href="www.olivas.com.mx/mi-cuenta">CUENTAS</a>, deberá proporcionar la información solicitada por el sistema, asignar un nombre de usuario y contraseña, aceptar los términos y condiciones y las políticas de privacidad y verificar la creación de la cuenta a través del vínculo enviado a su correo electrónico.</p>
+
+<p>Las cuentas de usuario serán validadas por el sistema mediante el envío de un correo electrónico de confirmación a la cuenta señalada por el USUARIO donde se incluirá un vínculo para acceder a la verificación de cuenta. Una vez verificada la cuenta, el USUARIO podrá ingresar a su cuenta desde el portal y podrá realizar modificaciones a su información, agregar información adicional y podrá realizar compra de productos.</p>
+
+<p>Las cuentas que no se hubieren verificado no estarán activas y el código de verificación enviado caducará en un plazo de ___.</p>
+
+<p>El USUARIO es el único responsable del uso de su cuenta de usuario así como de sus credenciales o contraseñas de acceso. Está prohibido compartir con terceros su cuenta de usuario, su nombre de usuario y contraseña. Cualquier uso o compra realizados con la cuenta de un USUARIO, empleando sus credenciales de acceso y contaseñas, se entenderá realizada por el usuario al que se le asignó esa cuenta.</p>
+
+<p>El USUARIO capturará, editará, eliminará y, en general, administrará sus datos personales y los datos asociados a su cuenta de usuario, incluyendo los datos de envío. Usted es el único responsable de la veracidad, calidad y cantidad de la información que asocie a su cuenta por lo que cualquier error u omisión que derive en la compra, envío o entrega de productos, por datos incorrectos u omisos, será total responsabilidad del usuario.</p>
+
+<p>Los datos asociados a su cuenta de usuario serán tratados de acuerdo con nuestro <a href="www.olivas.com.mx/privacidad">Aviso de Privacidad</a>.</p>
+
+<p>La empresa tendrá la libertad de suspender o cancelar cualquier cuenta de usuario si se determina que éste ha violado los Términos y Condiciones. En este supuesto, la empresa le hará saber las razones de la cancelación o suspensión a través de correo electrónico enviado a la dirección asociada a la cuenta de usuario afectada.</p>
 
 <h3><a name="PROCES">PROCESO DE COMPRA</a></h3>
 <p align="justify">Utilizar el PORTAL y los Servicios de manera conforme con las leyes o reglamentos aplicables (estatales, federales, locales o internacionales), con lo dispuesto en este contrato, la moral y las buenas costumbres generalmente aceptadas como el orden público</p>
+
+<h3><a name="REQ">REQUISITOS DE COMPRA</a></h3>
+<p align="justify">Pendiente </p>
+
+<h3><a name="GAR">GARANTÍAS</a></h3>
+<p align="justify">Los productos vendidos por nosotros cuentan con garantía expedida y ofrecida por el fabricante del producto por lo que su alcance, plazos y procesos no es responsabilidad de MUEBLERIAS OLIVAS. Las especificaciones de la garantía del fabricante se podrán encontrar en la documentación recibida junto con el producto comprado. Para conocer el contenido íntegro de la garantía el usuario deberá acceder a la documentación y póliza proporcionada por el fabricante.</p>
+
+<p align="justify">El usuario deberá contactar e iniciar los procesos de reclamación directamente ante el fabricante del producto comprado y no es responsabilidad de Mueblerías Olivas atender, iniciar, agotar o intermediar entre fabricantes y usuarios sobre las condiciones, plazos, procesos y evaluaciones de la garantía del fabricante. En caso de dudas sobre la aplicación de la garantía o del conocimiento de las garantías el usuario deberá acudir directamente al fabricante del producto. El usuario podrá contactar a nuestro centro de atención a clientes para obtener los datos de un fabricante para iniciar su reclamación.</p>
+
+<p align="justify">Además de la garantía del fabricante, Mueblerías Olivas dispone para sus usuarios una garantía complementaria sobre productos entregados en mal estado o con defectos de fabricación o funcionalidad. Salvo que se disponga algo distinto en las Condiciones Particulares del Producto, el usuario podrá solicitar la devolución, reembolso o sustitución del producto directamente ante nosotros en un plazo máximo de 7 días naturales contados a partir de la entrega de los productos. Si no se presenta la solicitud en el plazo indicado el usuario deberá sujetarse a las condiciones de la póliza de garantía expedida por el fabricante y a los procesos y condiciones establecidas por éste. Si el usuario presenta su solicitud en tiempo y forma, podrá optar por regresar el producto defectuoso y solicitar la reposición con otro producto de idénticas características que será enviado en un plazo de 24 a 48 horas, sin considerar los plazos de entrega por el servicio de transporte.</p>
+
+<p align="justify">Para ejercer la garantía complementaria ante Mueblerías Olivas el usuario deberá presentar su solicitud a través de los medios de contacto establecidos en la sección <a href="#ATE">Atención a clientes</a> señalando:</p>
+
+<p align="justify">•	Su cuenta de usuario</p>
+<p align="justify">•	Su correo electrónico</p>
+<p align="justify">•	La orden de compra del producto o código de venta asociado</p>
+<p align="justify">•	La descripción de las razones para la solicitud de garantía</p>
+<p align="justify">•	Evidencias de las condiciones que reclama, tales como fotografías de los defectos o inconformidades.</p>
+
+<p align="justify">Una vez presentada la reclamación la atenderemos en un plazo estimado de 24 a 48 horas indicándole si procede su reclamación y el proceso a seguir para la devolución de la mercancía dañada y/o el reembolso del precio del producto o la sustitución del mismo.</p>
+
+<p align="justify">De resultar favorable la garantía complementaria ofrecida por Mueblerías Olivas, el usuario no podrá acudir al fabricante a hacer efectiva ninguna otra garantía. Una vez ejercido el proceso de reclamo ante el fabricante, de resultar este favorable, el usuario no podrá iniciar otro proceso de garantía, por los mismos productos, ante Mueblerías Olivas. La decisión tomada por Mueblerías Olivas no predispone la evaluación que realice el fabricante sobre la aceptación de garantías.</p>
+
+<p align="justify">El usuario que actúe en contradicción a lo señalado en el párrafo anterior será responsable del pago de daños y perjuicios causados a la empresa.</p>
+
+
+<h3><a name="ENV">ENVÍOS Y ENTREGAS</a></h3>
+<p align="justify">Pendiente</p>
+
+
+<h3><a name="FAC">FACTURACIÓN</a></h3>
+<p align="justify">Pendiente</p>
+
+
+<h3><a name="USE">USO DEL SITIO</a></h3>
+<p align="justify">Pendiente</p>
+
+
+<h3><a name="DEV">DEVOLUCIONES, CANCELACIONES Y REEMBOLSO</a></h3>
+<p align="justify">Pendiente</p>
+
+
+<h3><a name="LIM">LIMITES DE RESPONSABILIDAD</a></h3>
+<p align="justify">Pendiente</p>
+
+
+<h3><a name="PROP">PROPIEDAD INTELECTUAL</a></h3>
+<p align="justify">Pendiente</p>
+
+
+<h3><a name="PRIV">PRIVACIDAD Y CONFIDENCIALIDAD</a></h3>
+<p align="justify">Pendiente</p>
+
+
+<h3><a name="ATE">ATENCIÓN A CLIENTES, DUDAS Y RECLAMACIONES</a></h3>
+<p align="justify">Pendiente</p>
+
+
 <button onclick="window.print()"> Imprimir Términos y Condiciones </button>
 </body>
 </html>
