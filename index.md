@@ -42,9 +42,14 @@
 
 <p align="justify">El CLIENTE acepta estos Términos y Condiciones dando clic en el botón "Acepto" en la página de registro de usuarios o accediendo, usando o comprando en el PORTAL.</p>
 
-
 <h3><a name="DEFINICIONES">DEFINICIONES</a></h3>
-<p>Página electrónica, software, y/o sitio de Internet propiedad de LA EMPRESA, ubicado en <a href="www.olivas.com.mx">www.olivas.com.mx</a></p>
+<p><b>"PORTAL"</b>: Se refiere al sitio de internet <a href="www.olivas.com.mx">www.olivas.com.mx</a>, o bien, a la aplicación móvil asociada a MUEBLERÍAS OLIVAS, y cuya función principal es la de poner a disposición del CLIENTE diversos productos para su compra electrónica.</p>
+
+<p><b>"USUARIO"</b>: Persona física mayor de 18 años o moral que accede o usa nuestro portal, crea una cuenta o adquiere como destinatario final los productos proporcionados por la empresa. Asimismo se entenderá como USUARIO a la persona que, de manera directa o indirecta, realice la compra de productos y/o servicios a través del PORTAL y que suscribe y se compromete al cumplimiento de los presentes Términos y Condiciones.</p>
+
+<p><b>“MUEBLERIA OLIVAS”</b>: Se refiere a la empresa IMPORTADORA Y COMERCIALIZADORA DE MUEBLES DE CAMARGO, S.A. DE C.V. o cualquiera de sus filiales o subsidiarias, con domicilio en Ave. Fedor Dostoyevski número 105-5, Colonia Quintas Quijote, Código Postal 31196, en la ciudad de Chihuahua, Chihuahua, México; Registro Federal de Contribuyentes ICM090206H37; número de teléfono 6144681511; correo electrónico: ventas@muebleriaolivas.com.mx y sitio web www.olivas.com.mx.</p>
+
+<p><b>"CONDICIONES PARTICULARES DE COMPRA"</b>: Se refiere a la definición de condiciones específicas sobre el producto a adquirir que se establecen en la descripción del producto o previo a la finalización de la compra, esto incluye datos específicos del producto como modelo, tamaño, peso, color, texturas o composición, forma, entre otros datos asociados al producto así como costos totales del producto, costos y condiciones de envío, fecha de entrega. </p>
 
 <h3><a name="DECLARACIONES">DECLARACIONES</a></h3>
 <p align="justify">LA EMPRESA declara ser una persona moral constituida con total apego a la legislación mexicana, con los datos de identificación referidos en las definiciones, y que cuenta con la capacidad legal para acordar sus transacciones de conformidad con el presente.</p>
