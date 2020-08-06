@@ -20,7 +20,7 @@
 <h3><a href="#PROCES">PROCESO DE COMPRA</a></h3>
 <h3><a href="#REQ">REQUISITOS DE COMPRA</a></h3>
 <h3><a href="#GAR">GARANTÍAS</a></h3>
-<h3><a href="#ENV">ENVÍOS Y ENTREGAS</a></h3>
+<h3>v</h3>
 <h3><a href="#FAC">FACTURACIÓN</a></h3>
 <h3><a href="#USE">USO DEL SITIO</a></h3>
 <h3><a href="#DEV">DEVOLUCIONES, CANCELACIONES Y REEMBOLSO</a></h3>
@@ -71,7 +71,21 @@
 <p>La empresa tendrá la libertad de suspender o cancelar cualquier cuenta de usuario si se determina que éste ha violado los Términos y Condiciones. En este supuesto, la empresa le hará saber las razones de la cancelación o suspensión a través de correo electrónico enviado a la dirección asociada a la cuenta de usuario afectada.</p>
 
 <h3><a name="PROCES">PROCESO DE COMPRA</a></h3>
-<p align="justify">Utilizar el PORTAL y los Servicios de manera conforme con las leyes o reglamentos aplicables (estatales, federales, locales o internacionales), con lo dispuesto en este contrato, la moral y las buenas costumbres generalmente aceptadas como el orden público</p>
+<p align="justify">Para la compra de nuestros productos es indispensable que el usuario cree una cuenta, o bien, que ingrese a través de su cuenta previamente creada.</p>
+<p align="justify">Para llevar a cabo compras en el PORTAL, el USUARIO deberá llevar a cabo las siguientes acciones:</p>
+<p align="justify"><b>1.-</b> Deberá acceder al portal <a href="www.olivas.com.mx">www.olivas.com.mx</a> donde podrá ver las características generales, nombres y costos del producto del catálogo de productos disponibles para su adquisición. </p>
+<p align="justify"><b>2.-</b>Deberá seleccionar el o los productos a adquirir para conocer los detalles específicos del producto, la disponibilidad y las Condiciones Particulares de Compra.</p>
+<p align="justify">Estos detalles específicos y condiciones particulares comprenderán, opcionalmente, la siguiente información:</p>
+<p align="justify"> -	Composición del producto (materiales y texturas)</p>
+<p align="justify"> -	Dimensiones, tamaños o proporciones</p>
+<p align="justify"> -	Colores u otras características ornamentales</p>
+<p align="justify"> -	Detalle sobre accesorios que incluye</p>
+<p align="justify"> -	Marca, modelo y/o país de origen</p>
+<p align="justify">El Usuario deberá cerciorarse de que las características, naturaleza, precio, costos de envío y condiciones particulares corresponden con el producto que desea adquirir y para las finalidades para las que los adquiere. Consulta nuestra sección <a href="#DEV">DEVOLUCIONES, CANCELACIONES Y REEMBOLSOS</a> para conocer qué puedes hacer si el producto que solicitante no se adecúa a tus necesidades.</p>
+<p align="justify">LAS IMÁGENES Y CARACTERÍSTICAS DEL PRODUCTO MOSTRADAS EN EL PORTAL PUEDEN VARIAR LIGERAMENTE CON RESPECTO AL PRODUCTO ENTREGADO SIN QUE EXISTA ERROR O VICIOS EN EL PRODUCTO. LAS DIFERENCIAS MÍNIMAS DE COLORES, DISEÑOS, DIMENSIONES, PROPORCIONES Y TEXTURAS APRECIADAS EN LAS FOTOGRAFÍAS CONTENIDAS EN NUESTRO SITIO ES NATURAL DEBIDO A LAS VARIACIONES DE LUZ, IMAGEN Y LA CALIDAD DE LA PANTALLA EN LA QUE SE OBSERVAN.</p>
+<p align="justify"><b>3.-</b>Una vez conocidos los detalles del producto, podrá el usuario seleccionar la opción “agregar” para que el producto se agregue a su carrito de compras. De igual manera, el usuario podrá guardarlo temporalmente en su lista de deseos o hacernos una consulta específica sobre el producto previo a su compra. Para poder consultar los productos guardados en su carrito de compras el usuario deberá iniciar sesión en su cuenta de usuario.</p>
+<p align="justify"><b>4.-</b>Para proceder con la compra del producto, el usuario deberá ingresar a la sección “pagar carrito” o aquella que muestra el diseño del carrito de compra. Esto permitirá que el usuario avance a la sección donde se muestran la confirmación de los productos a adquirir, el precio del producto previo costos de envío, la cantidad seleccionada de productos y el subtotal de la compra. Asimismo, en dicha sección podrá el usuario eliminar productos de carrito o introducir códigos promocionales o cupones que eventualmente la empresa disponga.</p>
+<p align="justify">Los precios mostrados antes de la compra incluyen impuestos federales pero no comprenden el costo de envío, costos de importación o gastos adicionales de envío. Las condiciones de envío se encuentran en nuestra sección <a href="#ENV">ENVÍOS Y ENTREGAS</a>.</p>
 
 <h3><a name="REQ">REQUISITOS DE COMPRA</a></h3>
 <p align="justify">Pendiente </p>
